@@ -1,3 +1,9 @@
+import sys
+import os
+
+# Add project root to Python path (for Streamlit Cloud)
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
+
 import streamlit as st
 import numpy as np
 import cv2
