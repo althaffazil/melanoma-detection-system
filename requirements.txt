@@ -6,7 +6,7 @@ torchvision==0.17.1+cpu
 
 albumentations
 opencv-python-headless
-numpy
+numpy<2.0
 pandas
 scikit-learn
 tqdm
