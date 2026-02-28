@@ -1,0 +1,10 @@
+torch
+torchvision
+albumentations
+opencv-python-headless
+numpy
+pandas
+scikit-learn
+tqdm
+streamlit
+reportlab
