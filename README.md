@@ -1,4 +1,4 @@
-# Automated Melanoma Detection and Lesion Segmentation
+# Melanoma Detection and Lesion Segmentation using Deep Learning
 
 An end-to-end deep learning system for automated skin lesion segmentation and melanoma classification, deployed using Streamlit Cloud.
 
